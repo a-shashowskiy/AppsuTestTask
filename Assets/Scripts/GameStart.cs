@@ -37,8 +37,6 @@ namespace Appsu.Test
         {
             _systems.Destroy();
             _world.Dispose();
-
-            PlayerPrefs.Save();
         }
 
     }
