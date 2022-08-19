@@ -1,5 +1,33 @@
 {
   "dependencies": {
+    "com.leopotam.ecs": {
+      "version": "https://github.com/Leopotam/ecs.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "44e783c9d642c9da18791874e950fc53634ee4e4"
+    },
+    "com.leopotam.ecs-ui": {
+      "version": "https://github.com/Leopotam/ecs-ui.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "70cd76063aae51a44059c95710c19c5d09cfd550"
+    },
+    "com.leopotam.ecs-unityintegration": {
+      "version": "https://github.com/Leopotam/ecs-unityintegration.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "16f527e942e4c03efabff357d718c4ba0092a477"
+    },
+    "com.leopotam.globals": {
+      "version": "https://github.com/Leopotam/globals.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "bd471093eb39824b4ec75e82c680b1d33999ec4c"
+    },
     "com.unity.adaptiveperformance": {
       "version": "3.0.2",
       "depth": 1,
@@ -8,6 +36,13 @@
         "com.unity.subsystemregistration": "1.1.0",
         "com.unity.profiling.core": "1.0.0"
       },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.cinemachine": {
+      "version": "2.8.6",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
